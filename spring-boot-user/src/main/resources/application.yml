@@ -2,8 +2,4 @@ spring:
   application:
     name: web-client
 
-
 token: test-token
-
-server:
-  port: 8082
