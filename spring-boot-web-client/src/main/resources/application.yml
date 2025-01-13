@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: web-client
+
+
+token: test-token
